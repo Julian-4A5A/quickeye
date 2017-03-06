@@ -1,0 +1,146 @@
+body{
+    margin:0px;
+    padding:0px;
+    /*background-image: url("Back.jpg");*/
+    background-repeat:no-repeat;
+    background-position: center;
+    
+}
+
+.Container{
+    width: 800px;
+    height:auto;
+    clear: both;
+    overflow: auto;
+    margin:40px auto;
+    background-color: white;
+    border-radius: 10px;
+    border: solid 2px #FFD700;
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Header{
+    height: 80px;
+
+    
+}
+.Menu{
+    height: 50px;
+    
+}
+
+.RightBody{
+    width: 450px;
+    float: right;
+    height: auto;
+ 
+}
+.FormElement{
+    width: 350px;
+    margin: 6px auto;
+    height: 40px;
+}
+.TField{
+    width: 350px;
+    height: 35px;
+    border:1px solid gray;
+    padding-left:6px ;
+    font-family: "Lucida Grande" , "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size:17px;
+    
+}
+.button{
+    width: 200px;
+    height: 50px;
+    border:0px solid;
+    background-color: red;
+    font-size: 24px;
+    
+}
+.button: 
+    hover{
+        background-color: green;
+        color:white;
+        font-size: 24px;
+}
+.Footer{
+    height: 100px;
+}
+.H1{
+    font-size: 325%;
+    color: blue;
+    text-align: center;
+}
+
+.fileuploadholder {
+	width:400px;
+	height:200px;
+	margin: 60px auto 0px auto;
+	background-color:#FFF;
+	border:1px solid #CCC;
+	padding:6px;
+}
+#naam{
+    width: 90%;
+    height: 100px;
+    border:solid 1px yellow;
+    border-radius: 20px;
+    background-color: #FFDFDF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+#tijd{
+    height: 100px;
+    width: 90%;
+    border:solid 1px yellow;
+    border-radius: 20px;
+    background-color: #FBFFB3;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+#spel{
+    width: 90%;
+    height: 700px;
+    border:solid 1px yellow;
+    border-radius: 20px;
+    background-color: #FFF8D4;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    
+}
+
+.oefen{
+    float: left;
+}
+.wedstrijd{
+    float: left;
+    
+}
+
+
+#quick{
+    width:100%;
+    height: 100%;
+    margin: 5px;
+    
+}
+#spel2{
+   
+    width:90%;
+    height: 90%;
+    
+    margin: auto;
+}
+.button1{
+    border:solid 1px black;
+    background-color: #ffffb3;
+    border-radius: 5px;
+    
+}
